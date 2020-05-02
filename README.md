@@ -5,3 +5,5 @@
 <li>You can filter your items.</li>
 i used firebase for backend.
 i also added dummy authentication for practice.
+
+<img src="src/app-photo.png" width="600px">
